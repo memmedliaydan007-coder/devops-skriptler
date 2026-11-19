@@ -1,5 +1,5 @@
 #!/bin/bash
-
+echo "bash skript"
 AD="Aydan Memmedli"
 echo "Ad: $AD"
 echo "bugunki tarix: $(date +%F)"
